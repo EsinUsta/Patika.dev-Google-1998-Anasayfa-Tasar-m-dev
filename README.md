@@ -1,2 +1,2 @@
-# Patika.dev-Google-1988-Anasayfa-Tasar-m-dev
-Google 1988 Anasayfa Tasarımı Ödev
+# Patika.dev-Google-1998-Anasayfa-Tasar-m-dev
+Google 1998 Anasayfa Tasarımı Ödev
